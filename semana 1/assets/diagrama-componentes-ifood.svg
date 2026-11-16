@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-label="Diagrama de componentes UML conceitual de pedidos inspirado no iFood">
+<defs><filter id="shadow" x="-20%" y="-30%" width="150%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#1a3656" flood-opacity=".10"/></filter>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#8193aa" stroke-width="2"/></marker>
+<marker id="greenArrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#16846d" stroke-width="2"/></marker></defs>
+<rect width="1600" height="1040" fill="#f4f7fb"/>
+<rect x="42" y="42" width="1516" height="940" rx="24" fill="#fff" stroke="#e1e8f0"/>
+<rect x="72" y="67" width="8" height="82" rx="3" fill="#d84349"/>
+<text x="101" y="96" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#6a8099">ARQUITETURA DE SOFTWARE · SEMANA 1</text>
+<text x="101" y="138" font-family="Arial, sans-serif" font-size="35" font-weight="800" fill="#182f48">Diagrama de Componentes UML</text>
+<text x="101" y="167" font-family="Arial, sans-serif" font-size="17" fill="#5e738a">Sistema de delivery inspirado no iFood · fluxo de pedidos · modelo conceitual</text>
+<rect x="1300" y="87" width="216" height="33" rx="9" fill="#edf4ff"/>
+<text x="1408" y="109" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#315f92">MODELAGEM VISUAL</text>
+<text x="72" y="218" font-family="Arial" font-size="16" font-weight="700" fill="#54708c">01 · CAMINHO PRINCIPAL</text>
+<path d="M72 229 H1527" stroke="#edf1f5" stroke-width="2"/>
+<text x="72" y="493" font-family="Arial" font-size="16" font-weight="700" fill="#54708c">02 · SERVIÇOS E PERSISTÊNCIA</text>
+<path d="M72 502 H1527" stroke="#edf1f5" stroke-width="2"/>
+<g font-family="Arial, sans-serif"><path d="M342 305 H375" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"  marker-end="url(#arrow)"/>
+<path d="M645 305 H678" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"  marker-end="url(#arrow)"/>
+<path d="M948 305 H981" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"  marker-end="url(#arrow)"/>
+<path d="M1116 365 V520" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"  marker-end="url(#arrow)"/>
+<path d="M1251 292 H1408 V520" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"  marker-end="url(#arrow)"/>
+<path d="M1025 365 V470 H813 V520" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" marker-end="url(#arrow)"/>
+<path d="M678 588 H46 V317 H72" fill="none" stroke="#8193aa" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" marker-end="url(#arrow)"/>
+<path d="M1408 640 V730" fill="none" stroke="#16846d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" marker-end="url(#greenArrow)"/><g filter="url(#shadow)"><rect x="72" y="245" width="270" height="120" rx="14" fill="#fff" stroke="#355a83" stroke-width="2"/></g>
+<rect x="73" y="246" width="7" height="118" rx="3" fill="#355a83"/>
+<text x="94" y="275" font-size="12" font-weight="700" letter-spacing="1.0" fill="#355a83">APLICATIVO</text>
+<text x="94" y="309" font-size="20" font-weight="700" fill="#19334c">App Cliente</text>
+<text x="94" y="337" font-size="13.7" fill="#5e7185">Finaliza e acompanha pedidos</text>
+<rect x="291" y="258" width="29" height="25" rx="3" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="284" y="264" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="284" y="277" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="375" y="245" width="270" height="120" rx="14" fill="#fff" stroke="#355a83" stroke-width="2"/></g>
+<rect x="376" y="246" width="7" height="118" rx="3" fill="#355a83"/>
+<text x="397" y="275" font-size="12" font-weight="700" letter-spacing="1.0" fill="#355a83">INFRAESTRUTURA</text>
+<text x="397" y="309" font-size="20" font-weight="700" fill="#19334c">Load Balancer</text>
+<text x="397" y="337" font-size="13.7" fill="#5e7185">Distribui o tráfego de entrada</text>
+<rect x="594" y="258" width="29" height="25" rx="3" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="587" y="264" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="587" y="277" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="678" y="245" width="270" height="120" rx="14" fill="#fff" stroke="#355a83" stroke-width="2"/></g>
+<rect x="679" y="246" width="7" height="118" rx="3" fill="#355a83"/>
+<text x="700" y="275" font-size="12" font-weight="700" letter-spacing="1.0" fill="#355a83">ENTRADA</text>
+<text x="700" y="309" font-size="20" font-weight="700" fill="#19334c">API Gateway</text>
+<text x="700" y="337" font-size="13.7" fill="#5e7185">Autentica e roteia chamadas</text>
+<rect x="897" y="258" width="29" height="25" rx="3" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="890" y="264" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="890" y="277" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="981" y="245" width="270" height="120" rx="14" fill="#fff" stroke="#c63f43" stroke-width="2"/></g>
+<rect x="982" y="246" width="7" height="118" rx="3" fill="#c63f43"/>
+<text x="1003" y="275" font-size="12" font-weight="700" letter-spacing="1.0" fill="#c63f43">NEGÓCIO</text>
+<text x="1003" y="309" font-size="20" font-weight="700" fill="#19334c">Serviço de Pedidos</text>
+<text x="1003" y="337" font-size="13.7" fill="#5e7185">Orquestra o fluxo e os estados</text>
+<rect x="1200" y="258" width="29" height="25" rx="3" fill="#fff" stroke="#c63f43" stroke-width="2"/><rect x="1193" y="264" width="12" height="9" rx="1.5" fill="#fff" stroke="#c63f43" stroke-width="2"/><rect x="1193" y="277" width="12" height="9" rx="1.5" fill="#fff" stroke="#c63f43" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="678" y="520" width="270" height="120" rx="14" fill="#fff" stroke="#355a83" stroke-width="2"/></g>
+<rect x="679" y="521" width="7" height="118" rx="3" fill="#355a83"/>
+<text x="700" y="550" font-size="12" font-weight="700" letter-spacing="1.0" fill="#355a83">SERVIÇO</text>
+<text x="700" y="584" font-size="18" font-weight="700" fill="#19334c">Serviço de Notificações</text>
+<text x="700" y="612" font-size="13.7" fill="#5e7185">Comunica mudanças de status</text>
+<rect x="897" y="533" width="29" height="25" rx="3" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="890" y="539" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="890" y="552" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="981" y="520" width="270" height="120" rx="14" fill="#fff" stroke="#355a83" stroke-width="2"/></g>
+<rect x="982" y="521" width="7" height="118" rx="3" fill="#355a83"/>
+<text x="1003" y="550" font-size="12" font-weight="700" letter-spacing="1.0" fill="#355a83">SERVIÇO</text>
+<text x="1003" y="584" font-size="20" font-weight="700" fill="#19334c">Serviço de Pagamentos</text>
+<text x="1003" y="612" font-size="13.7" fill="#5e7185">Coordena a autorização</text>
+<rect x="1200" y="533" width="29" height="25" rx="3" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="1193" y="539" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/><rect x="1193" y="552" width="12" height="9" rx="1.5" fill="#fff" stroke="#355a83" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="1273" y="520" width="270" height="120" rx="14" fill="#fff" stroke="#c38228" stroke-width="2"/></g>
+<rect x="1274" y="521" width="7" height="118" rx="3" fill="#c38228"/>
+<text x="1295" y="550" font-size="12" font-weight="700" letter-spacing="1.0" fill="#c38228">DADOS</text>
+<text x="1295" y="584" font-size="20" font-weight="700" fill="#19334c">Banco Primário</text>
+<text x="1295" y="612" font-size="13.7" fill="#5e7185">Persiste pedidos e pagamentos</text>
+<rect x="1492" y="533" width="29" height="25" rx="3" fill="#fff" stroke="#c38228" stroke-width="2"/><rect x="1485" y="539" width="12" height="9" rx="1.5" fill="#fff" stroke="#c38228" stroke-width="2"/><rect x="1485" y="552" width="12" height="9" rx="1.5" fill="#fff" stroke="#c38228" stroke-width="2"/>
+<g filter="url(#shadow)"><rect x="1273" y="730" width="270" height="120" rx="14" fill="#fff" stroke="#18876f" stroke-width="2"/></g>
+<rect x="1274" y="731" width="7" height="118" rx="3" fill="#18876f"/>
+<text x="1295" y="760" font-size="12" font-weight="700" letter-spacing="1.0" fill="#18876f">RESILIÊNCIA</text>
+<text x="1295" y="794" font-size="20" font-weight="700" fill="#19334c">Réplica do Banco</text>
+<text x="1295" y="822" font-size="13.7" fill="#5e7185">Cópia para failover planejado</text>
+<rect x="1492" y="743" width="29" height="25" rx="3" fill="#fff" stroke="#18876f" stroke-width="2"/><rect x="1485" y="749" width="12" height="9" rx="1.5" fill="#fff" stroke="#18876f" stroke-width="2"/><rect x="1485" y="762" width="12" height="9" rx="1.5" fill="#fff" stroke="#18876f" stroke-width="2"/><rect x="329.75" y="260" width="56.5" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="358" y="278" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">HTTPS</text>
+<rect x="632.75" y="260" width="56.5" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="661" y="278" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">HTTPS</text>
+<rect x="936" y="260" width="56" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="964" y="278" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">REST</text>
+<rect x="1119" y="438" width="56" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="1147" y="456" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">REST</text>
+<rect x="1348.35" y="427" width="87.3" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="1392" y="445" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">SQL / JPA</text>
+<rect x="755.15" y="433" width="179.70000000000002" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="845" y="451" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">evento: pedido criado</text>
+<rect x="167.1" y="548" width="125.8" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="230" y="566" text-anchor="middle" font-size="12.7" font-weight="700" fill="#657b91">push de status</text>
+<rect x="1420.5" y="669" width="95" height="26" rx="6" fill="#ffffff" stroke="#e6eaf0"/><text x="1468" y="687" text-anchor="middle" font-size="12.7" font-weight="700" fill="#16846d">replicação</text></g>
+<rect x="72" y="888" width="1456" height="61" rx="12" fill="#fff8eb" stroke="#eecb94" stroke-width="1.5"/>
+<text x="95" y="914" font-family="Arial" font-size="16" font-weight="700" fill="#9b641b">PONTO ÚNICO DE FALHA (SPOF)</text>
+<text x="95" y="936" font-family="Arial" font-size="14" fill="#735d40">Banco Primário → réplica + detecção de falha, promoção e redirecionamento (failover). Réplica isolada não garante disponibilidade.</text>
+<text x="74" y="1005" font-family="Arial" font-size="13.2" fill="#657a90">Seta = direção de comunicação ou dependência. Linha tracejada = evento, notificação ou replicação. Modelo didático, não arquitetura oficial do iFood.</text>
+</svg>
