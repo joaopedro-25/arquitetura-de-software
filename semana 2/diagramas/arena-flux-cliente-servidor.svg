@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 855" role="img" aria-label="Diagrama de blocos Arena Flux - arquitetura cliente-servidor autoritativa">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#51738b" stroke-width="2"/></marker>
+<filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#152a3a" flood-opacity=".13"/></filter></defs>
+<rect width="1440" height="855" fill="#f4f8fc"/>
+<rect x="30" y="30" width="1380" height="790" rx="28" fill="#fff" stroke="#dbe6ed"/>
+<text x="75" y="100" font-family="Arial" font-size="18" font-weight="700" letter-spacing="2" fill="#257b87">SEMANA 2 · DIAGRAMA BÔNUS</text>
+<text x="75" y="157" font-family="Arial" font-size="43" font-weight="800" fill="#15364a">Arena Flux: cliente-servidor autoritativo</text>
+<text x="75" y="193" font-family="Arial" font-size="20" fill="#667e8a">Os clientes enviam ações; o servidor decide o estado oficial da partida.</text>
+<g filter="url(#shadow)">
+<rect x="82" y="307" width="274" height="114" rx="16" fill="#e8f5ff" stroke="#5d9bc4" stroke-width="2"/>
+<rect x="82" y="496" width="274" height="114" rx="16" fill="#e8f5ff" stroke="#5d9bc4" stroke-width="2"/>
+<rect x="534" y="277" width="310" height="114" rx="16" fill="#f0edff" stroke="#8c79d2" stroke-width="2"/>
+<rect x="534" y="492" width="310" height="147" rx="16" fill="#e7f7ef" stroke="#459f7b" stroke-width="3"/>
+<rect x="1016" y="308" width="330" height="114" rx="16" fill="#fff2e6" stroke="#d9a26a" stroke-width="2"/>
+<rect x="1016" y="513" width="330" height="114" rx="16" fill="#f5f7fa" stroke="#aebbc7" stroke-width="2"/>
+</g>
+<g font-family="Arial" fill="#193649">
+<text x="219" y="351" font-weight="700" font-size="25" text-anchor="middle">Cliente A</text>
+<text x="219" y="382" font-size="16" text-anchor="middle" fill="#607789">Entradas do jogador</text>
+<text x="219" y="540" font-weight="700" font-size="25" text-anchor="middle">Cliente B</text>
+<text x="219" y="571" font-size="16" text-anchor="middle" fill="#607789">Entradas do jogador</text>
+<text x="689" y="320" font-weight="700" font-size="24" text-anchor="middle">Matchmaking</text>
+<text x="689" y="352" font-size="16" text-anchor="middle" fill="#607789">Forma partidas e salas</text>
+<text x="689" y="542" font-weight="700" font-size="26" text-anchor="middle">Servidor de partida</text>
+<text x="689" y="575" font-size="17" text-anchor="middle" fill="#4c8269">Autoritativo: valida regras</text>
+<text x="689" y="598" font-size="17" text-anchor="middle" fill="#4c8269">e sincroniza o estado</text>
+<text x="1181" y="354" font-weight="700" font-size="24" text-anchor="middle">Estado em memória</text>
+<text x="1181" y="384" font-size="16" text-anchor="middle" fill="#8c6a4a">Atualização em tempo real</text>
+<text x="1181" y="559" font-weight="700" font-size="24" text-anchor="middle">Dados de resultados</text>
+<text x="1181" y="590" font-size="16" text-anchor="middle" fill="#687e8a">Persistência assíncrona</text></g>
+<g stroke="#51738b" stroke-width="3.5" fill="none" marker-end="url(#ar)">
+<path d="M356 364 H454 V557 H534"/>
+<path d="M356 554 H534"/>
+<path d="M689 391 V492"/>
+<path d="M844 553 H925 V365 H1016"/>
+<path d="M844 578 H1016"/>
+</g>
+<g font-family="Arial" font-size="16" font-weight="700" fill="#4e7084">
+<text x="405" y="347">WebSocket</text>
+<text x="408" y="535">WebSocket</text>
+<text x="714" y="453">Sala</text>
+<text x="874" y="468">Tick + estado</text>
+<text x="910" y="562">Evento final</text>
+</g>
+<rect x="80" y="689" width="1280" height="77" rx="12" fill="#eaf4f6"/>
+<text x="107" y="722" font-family="Arial" font-size="19" font-weight="700" fill="#21717c">Princípio essencial</text>
+<text x="107" y="749" font-family="Arial" font-size="18" fill="#436b7d">O cliente não informa quem venceu; apenas envia entradas. O servidor calcula a verdade da partida.</text>
+</svg>
