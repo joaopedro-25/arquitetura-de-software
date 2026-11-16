@@ -1,0 +1,691 @@
+%PDF-1.4
+%----
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R] /Count 15 >>
+endobj
+4 0 obj
+<< /Length 1347 >>
+stream
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 0 0 15 648 re f Q
+q 0.8941 0.9647 0.9451 rg  1.3 w 66 546 186 36 re f Q
+q 0.0627 0.1412 0.2353 rg BT /F2 15 Tf 1 0 0 1 82 557 Tm (PROJETO FINAL) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 54 Tf 1 0 0 1 67 453 Tm (ENTREGAJ\301) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 40 Tf 1 0 0 1 67 378 Tm (Arquitetura que conecta) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 40 Tf 1 0 0 1 67 303 Tm (neg\363cio e infraestrutura.) Tj ET Q
+q 0.7843 0.8510 0.9176 rg BT /F1 21 Tf 1 0 0 1 68 245 Tm (Projeto final conceitual: delivery urbano) Tj ET Q
+q 0.3020 0.4000 0.4941 RG 2 w 68 211 m 1085 211 l S Q
+q 0.8980 0.9490 0.9961 rg  1.3 w 68 142 232 38 re f Q
+q 0.0627 0.1412 0.2353 rg BT /F2 14 Tf 1 0 0 1 81 155 Tm (Componentes UML) Tj ET Q
+q 0.9333 0.9137 0.9882 rg  1.3 w 320 142 232 38 re f Q
+q 0.0627 0.1412 0.2353 rg BT /F2 14 Tf 1 0 0 1 333 155 Tm (Implanta\347\343o UML) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 572 142 232 38 re f Q
+q 0.0627 0.1412 0.2353 rg BT /F2 14 Tf 1 0 0 1 585 155 Tm (RNFs + riscos) Tj ET Q
+q 0.8941 0.9647 0.9451 rg  1.3 w 824 142 232 38 re f Q
+q 0.0627 0.1412 0.2353 rg BT /F2 14 Tf 1 0 0 1 837 155 Tm (Peer review) Tj ET Q
+q 0.7333 0.8157 0.8784 rg BT /F2 14 Tf 1 0 0 1 70 62 Tm (MODELO DID\301TICO \267 SEM C\323DIGO \267 PITCH 10-15 MIN) Tj ET Q
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2726 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (CEN\301RIO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (O desafio: delivery regional) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Cen\341rio fict\355cio, pois o texto espec\355fico do professor n\343o foi fornecido.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (02 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 110 316 326 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 65 110 8 326 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (CLIENTES) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (Encontrar e pedir) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (Buscar card\341pios, criar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (pedidos e acompanhar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (pagamento e entrega.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 421 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 418 110 316 326 re B Q
+q 0.4353 0.3529 0.7765 rg  1.3 w 418 110 8 326 re f Q
+q 0.4353 0.3529 0.7765 rg BT /F2 13 Tf 1 0 0 1 441 407 Tm (RESTAURANTES) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 441 365 Tm (Preparar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 324 Tm (Aceitar pedidos, atualizar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 295 Tm (status e registrar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 266 Tm (etapas de preparo.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 774 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 771 110 316 326 re B Q
+q 0.7216 0.4745 0.1804 rg  1.3 w 771 110 8 326 re f Q
+q 0.7216 0.4745 0.1804 rg BT /F2 13 Tf 1 0 0 1 794 407 Tm (ENTREGADORES) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 794 365 Tm (Distribuir) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 324 Tm (Aceitar corridas e) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 295 Tm (informar etapas) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 266 Tm (da entrega.) Tj ET Q
+q 0.8941 0.9647 0.9451 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (Premissas: equipe de cinco, MVP em 12 semanas, or\347amento limitado, uma regi\343o.) Tj ET Q
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3128 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (VIS\303O DO PRODUTO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (A jornada de ponta a ponta) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (O cliente deve conseguir comprar com confian\347a e acompanhar tudo.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (03 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 246 179 105 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 250 179 105 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 81 323 Tm (Cliente) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 81 296 Tm (Escolha) Tj ET Q
+q 0.0863 0.5882 0.5490 RG 3 w 244 301 m 283 301 l S Q
+q 0.0863 0.5882 0.5490 rg 283 301 m 273 305.8 l 273 296.2 l h f Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 286 246 179 105 re f Q
+q 0.9333 0.9137 0.9882 rg 0.8667 0.9059 0.9412 RG 1.3 w 283 250 179 105 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 299 323 Tm (Cat\341logo) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 299 296 Tm (Consulta) Tj ET Q
+q 0.0863 0.5882 0.5490 RG 3 w 462 301 m 501 301 l S Q
+q 0.0863 0.5882 0.5490 rg 501 301 m 491 305.8 l 491 296.2 l h f Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 504 246 179 105 re f Q
+q 0.8941 0.9647 0.9451 rg 0.8667 0.9059 0.9412 RG 1.3 w 501 250 179 105 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 517 323 Tm (Pedido) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 517 296 Tm (Registro) Tj ET Q
+q 0.0863 0.5882 0.5490 RG 3 w 680 301 m 719 301 l S Q
+q 0.0863 0.5882 0.5490 rg 719 301 m 709 305.8 l 709 296.2 l h f Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 722 246 179 105 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 719 250 179 105 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 735 323 Tm (Pagamento) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 735 296 Tm (Confirma\347\343o) Tj ET Q
+q 0.0863 0.5882 0.5490 RG 3 w 898 301 m 937 301 l S Q
+q 0.0863 0.5882 0.5490 rg 937 301 m 927 305.8 l 927 296.2 l h f Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 940 246 179 105 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 937 250 179 105 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 953 323 Tm (Entrega) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 953 296 Tm (Status) Tj ET Q
+q 0.8980 0.9490 0.9961 rg  1.3 w 67 90 1020 109 re f Q
+q 0.1059 0.2039 0.3020 rg BT /F2 22 Tf 1 0 0 1 91 162 Tm (Integridade acima de resposta precipitada) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 91 123 Tm (Um timeout do PSP deve gerar reconcilia\347\343o, n\343o uma segunda cobran\347a autom\341tica.) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (Um timeout do pagamento n\343o equivale a cobran\347a negada ou confirmada.) Tj ET Q
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3075 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (PARTE 1 \267 REQUISITOS) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (RNFs mensur\341veis, priorizados) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (As metas abaixo s\343o hip\363teses a validar, n\343o resultados medidos.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (04 / 15) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 388 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 388 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 406 Tm (P0) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 406 Tm (Seguran\347a) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 406 Tm (TLS, autoriza\347\343o por recurso e webhook autenticado) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 327 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 327 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 345 Tm (P0) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 345 Tm (Confiabilidade) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 345 Tm (Disponibilidade de checkout: 99,9% ao m\352s) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 266 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 266 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 284 Tm (P0) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 284 Tm (Integridade) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 284 Tm (Sem cobran\347a duplicada em retry de pedido) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 205 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 205 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 223 Tm (P1) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 223 Tm (Desempenho) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 223 Tm (Busca p95 <= 300 ms; pedido p95 <= 800 ms) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 144 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 144 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 162 Tm (P1) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 162 Tm (Escalabilidade) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 162 Tm (Testar 5x nas consultas e 2x no checkout) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 83 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 83 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 101 Tm (P1) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 101 Tm (Manutenibilidade) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 101 Tm (M\363dulos com fronteiras e mudan\347as isoladas) Tj ET Q
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2272 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (PARTE 2 \267 DECIS\303O) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Monolito modular + worker) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Menos servi\347os remotos em um MVP de equipe reduzida.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (05 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 111 489 325 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 65 111 8 325 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (BACKEND) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (M\363dulos internos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (Identidade, Cat\341logo,) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (Pedidos, Pagamentos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (e Despacho em um) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 237 Tm (mesmo artefato.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 594 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 591 111 489 325 re B Q
+q 0.4353 0.3529 0.7765 rg  1.3 w 591 111 8 325 re f Q
+q 0.4353 0.3529 0.7765 rg BT /F2 13 Tf 1 0 0 1 614 407 Tm (EVENTOS) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 614 365 Tm (Fluxos ass\355ncronos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 324 Tm (Outbox transacional,) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 295 Tm (fila gerenciada e worker) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 266 Tm (de notifica\347\365es fora) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 237 Tm (do caminho cr\355tico.) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (A escolha assume o custo de deploy conjunto e banco compartilhado.) Tj ET Q
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3606 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (PARTE 2 \267 DIAGRAMA) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Componentes UML  -  vis\343o l\363gica) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Vers\343o resumida: o SVG completo est\341 no GitHub.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (06 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 69 235 165 96 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 239 165 96 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 82 303 Tm (3 apps) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 82 276 Tm (HTTPS) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 300 235 177 96 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 297 239 177 96 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 313 303 Tm (API REST) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 313 276 Tm (Entrada) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 563 200 289 196 re f Q
+q 0.9333 0.9137 0.9882 rg 0.8667 0.9059 0.9412 RG 1.3 w 560 204 289 196 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 576 368 Tm (Monolito modular) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 576 341 Tm (Identidade / Cat\341logo) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 16 Tf 1 0 0 1 579 302 Tm (Pedidos / Pagamentos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 16 Tf 1 0 0 1 579 272 Tm (Despacho / Outbox) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 939 307 156 90 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 936 311 156 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 952 369 Tm (PSP) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 952 342 Tm (Externo) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 939 201 156 90 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 936 205 156 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 952 263 Tm (Postgres) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 952 236 Tm (Transacional) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 563 79 226 89 re f Q
+q 0.8941 0.9647 0.9451 rg 0.8667 0.9059 0.9412 RG 1.3 w 560 83 226 89 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 576 140 Tm (Fila) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 576 113 Tm (Eventos) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 848 79 248 89 re f Q
+q 0.8941 0.9647 0.9451 rg 0.8667 0.9059 0.9412 RG 1.3 w 845 83 248 89 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 861 140 Tm (Worker) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 861 113 Tm (Push) Tj ET Q
+q 0.0863 0.5882 0.5490 RG 3 w 231 289 m 297 289 l S Q
+q 0.0863 0.5882 0.5490 rg 297 289 m 287 293.8 l 287 284.2 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 474 289 m 560 289 l S Q
+q 0.0863 0.5882 0.5490 rg 560 289 m 550 293.8 l 550 284.2 l h f Q
+q 0.7216 0.4745 0.1804 RG 3 w 849 360 m 936 360 l S Q
+q 0.7216 0.4745 0.1804 rg 936 360 m 926 364.8 l 926 355.2 l h f Q
+q 0.7216 0.4745 0.1804 RG 3 w 849 248 m 936 248 l S Q
+q 0.7216 0.4745 0.1804 rg 936 248 m 926 252.8 l 926 243.2 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 705 204 m 705 172 l S Q
+q 0.0863 0.5882 0.5490 rg 705 172 m 709.8 182 l 700.2 182 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 786 125 m 845 125 l S Q
+q 0.0863 0.5882 0.5490 rg 845 125 m 835 129.79999999999995 l 835 120.20000000000005 l h f Q
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2817 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (FLUXO CR\315TICO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Pedido seguro e idempotente) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Passos simplificados, suficientes para defender a consist\352ncia.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (07 / 15) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 374 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 374 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 406 Tm (01) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 406 Tm (Receber) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 406 Tm (Chave de idempot\352ncia do checkout) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 299 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 299 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 331 Tm (02) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 331 Tm (Validar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 331 Tm (Item, pre\347o, usu\341rio e restaurante) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 224 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 224 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 256 Tm (03) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 256 Tm (Consultar PSP) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 256 Tm (Autoriza\347\343o e eventual webhook verificado) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 149 1018 66 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 149 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 181 Tm (04) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 181 Tm (Confirmar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 181 Tm (Estado do pedido + outbox no PostgreSQL) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 74 1018 66 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 74 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 106 Tm (05) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 106 Tm (Notificar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 106 Tm (Fila, worker e servi\347o de push) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (Pagamento indefinido => estado pendente + reconcilia\347\343o. N\343o cobrar \340s cegas.) Tj ET Q
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 4331 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (PARTE 2 \267 DIAGRAMA) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Implanta\347\343o UML  -  vis\343o f\355sica) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (A mesma aplica\347\343o backend-modular em duas r\351plicas de API.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (08 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 271 180 93 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 275 180 93 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 81 336 Tm (Clientes) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 81 309 Tm (Mobile/Web) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 302 271 180 93 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 299 275 180 93 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 315 336 Tm (CDN / WAF) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 315 309 Tm (Borda) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 538 271 180 93 re f Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 535 275 180 93 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 551 336 Tm (Load Balancer) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 551 309 Tm (HTTPS) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 792 313 301 90 re f Q
+q 0.8941 0.9647 0.9451 rg 0.8667 0.9059 0.9412 RG 1.3 w 789 317 301 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 805 375 Tm (API R\351plica 1) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 805 348 Tm (backend-modular) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 792 195 301 90 re f Q
+q 0.8941 0.9647 0.9451 rg 0.8667 0.9059 0.9412 RG 1.3 w 789 199 301 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 805 257 Tm (API R\351plica 2) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 805 230 Tm (backend-modular) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 307 59 180 90 re f Q
+q 0.9333 0.9137 0.9882 rg 0.8667 0.9059 0.9412 RG 1.3 w 304 63 180 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 320 121 Tm (Worker) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 320 94 Tm (Notifica\347\365es) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 554 59 181 90 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 551 63 181 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 567 121 Tm (Postgres) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 567 94 Tm (Primary/Standby) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 795 59 132 90 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 792 63 132 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 808 121 Tm (Redis) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 808 94 Tm (Cache) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 978 59 116 90 re f Q
+q 1.0000 0.9412 0.8667 rg 0.8667 0.9059 0.9412 RG 1.3 w 975 63 116 90 re B Q
+q 0.1059 0.2039 0.3020 rg BT /F2 19 Tf 1 0 0 1 991 121 Tm (Fila) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 14 Tf 1 0 0 1 991 94 Tm (Eventos) Tj ET Q
+q 0.1412 0.3294 0.4824 RG 3 w 245 322 m 299 322 l S Q
+q 0.1412 0.3294 0.4824 rg 299 322 m 289 326.8 l 289 317.2 l h f Q
+q 0.1412 0.3294 0.4824 RG 3 w 479 322 m 535 322 l S Q
+q 0.1412 0.3294 0.4824 rg 535 322 m 525 326.8 l 525 317.2 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 715 322 m 789 365 l S Q
+q 0.0863 0.5882 0.5490 rg 789 365 m 777.9421443302215 364.12602746819584 l 782.7653510298037 355.82562524100797 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 715 322 m 789 245 l S Q
+q 0.0863 0.5882 0.5490 rg 789 245 m 785.5316466743196 255.53615324529034 l 778.6099221107589 248.884106262128 l h f Q
+q 0.7216 0.4745 0.1804 RG 3 w 953 199 m 640 153 l S Q
+q 0.7216 0.4745 0.1804 rg 640 153 m 650.5916594845642 149.70504182681458 l 649.1957907880189 159.20301795765448 l h f Q
+q 0.7216 0.4745 0.1804 RG 3 w 1031 199 m 1031 153 l S Q
+q 0.7216 0.4745 0.1804 rg 1031 153 m 1035.8 163 l 1026.2 163 l h f Q
+q 0.0863 0.5882 0.5490 RG 3 w 975 107 m 484 107 l S Q
+q 0.0863 0.5882 0.5490 rg 484 107 m 494 102.20000000000005 l 494 111.79999999999995 l h f Q
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 3040 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (RASTREABILIDADE) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Onde os componentes executam) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (O desenho l\363gico precisa corresponder ao f\355sico.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (09 / 15) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 388 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 388 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 406 Tm (L\323GICO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 406 Tm (API REST + Identidade) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 406 Tm (Backend modular  -  r\351plicas 1 e 2) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 327 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 327 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 345 Tm (L\323GICO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 345 Tm (Cat\341logo + Pedidos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 345 Tm (Backend modular  -  r\351plicas 1 e 2) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 266 1018 52 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 266 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 284 Tm (L\323GICO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 284 Tm (Pagamentos + Despacho) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 284 Tm (Backend modular  -  r\351plicas 1 e 2) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 205 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 205 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 223 Tm (EVENTOS) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 223 Tm (Publicador Outbox) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 223 Tm (Backend modular + PostgreSQL) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 144 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 144 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 162 Tm (EVENTOS) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 162 Tm (Worker Notifica\347\365es) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 162 Tm (Inst\342ncia separada + fila) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 83 1018 52 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 83 95 52 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 101 Tm (DADOS) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 101 Tm (PG / Redis / fila) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 101 Tm (Servi\347os gerenciados) Tj ET Q
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 2787 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (MEDI\307\303O DE QUALIDADE) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Como demonstrar os RNFs?) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (M\351tricas s\363 s\343o promessas quando medidas e aceitas.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (10 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 110 316 326 re B Q
+q 0.7686 0.3216 0.3765 rg  1.3 w 65 110 8 326 re f Q
+q 0.7686 0.3216 0.3765 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (SEGURAN\307A) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (Controles) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (Testar autoriza\347\343o de) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (pedidos, valida\347\343o de) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (webhooks e repeti\347\343o) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 237 Tm (de cobran\347as.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 421 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 418 110 316 326 re B Q
+q 0.7216 0.4745 0.1804 rg  1.3 w 418 110 8 326 re f Q
+q 0.7216 0.4745 0.1804 rg BT /F2 13 Tf 1 0 0 1 441 407 Tm (DESEMPENHO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 441 365 Tm (p95 da API) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 324 Tm (Busca <= 300 ms;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 295 Tm (pedido <= 800 ms) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 266 Tm (sem tempo do PSP;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 237 Tm (registrar erros.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 774 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 771 110 316 326 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 771 110 8 326 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 794 407 Tm (RECUPERA\307\303O) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 794 365 Tm (Failover) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 324 Tm (Disponibilidade 99,9%;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 295 Tm (RPO alvo <= 5 min;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 266 Tm (RTO alvo <= 60 min;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 237 Tm (ensaiar restaura\347\343o.) Tj ET Q
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 2293 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (CUSTO E VALOR) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Qual o pre\347o da escolha?) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Uma boa arquitetura exp\365e o que ganha e o que perde.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (11 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 111 489 325 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 65 111 8 325 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (BENEF\315CIO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (Opera\347\343o mais simples) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (Deploy e debug menos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (distribu\355dos; m\363dulos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (internos test\341veis;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 237 Tm (worker desacoplado.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 594 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 591 111 489 325 re B Q
+q 0.7686 0.3216 0.3765 rg  1.3 w 591 111 8 325 re f Q
+q 0.7686 0.3216 0.3765 rg BT /F2 13 Tf 1 0 0 1 614 407 Tm (TRADE-OFF) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 614 365 Tm (Escala menos granular) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 324 Tm (M\363dulos implantados) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 295 Tm (juntos; banco \351) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 266 Tm (recurso compartilhado;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 237 Tm (depend\352ncia do PSP.) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (Revisar a decis\343o quando o custo de acoplamento superar a simplicidade.) Tj ET Q
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 2818 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (RISCOS E CONTINUIDADE) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (E se os componentes falharem?) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Resili\352ncia depende da implanta\347\343o, n\343o apenas do desenho l\363gico.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (12 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 110 316 326 re B Q
+q 0.7216 0.4745 0.1804 rg  1.3 w 65 110 8 326 re f Q
+q 0.7216 0.4745 0.1804 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (BANCO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (Prim\341rio indispon\355vel) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (Standby + backup +) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (teste de failover;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (uma regi\343o pode) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 237 Tm (ficar indispon\355vel.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 421 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 418 110 316 326 re B Q
+q 0.7686 0.3216 0.3765 rg  1.3 w 418 110 8 326 re f Q
+q 0.7686 0.3216 0.3765 rg BT /F2 13 Tf 1 0 0 1 441 407 Tm (PAGAMENTO) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 441 365 Tm (PSP indispon\355vel) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 324 Tm (Marcar pedido pendente,) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 295 Tm (usar timeout seguro e) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 266 Tm (reconciliar sem) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 441 237 Tm (duplicar cobran\347a.) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 774 106 316 326 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 771 110 316 326 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 771 110 8 326 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 794 407 Tm (API) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 794 365 Tm (R\351plica indispon\355vel) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 324 Tm (Balanceador passa) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 295 Tm (\340 inst\342ncia saud\341vel;) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 266 Tm (monitorar banco e) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 794 237 Tm (taxa de erros.) Tj ET Q
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 2798 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (EVOLU\307\303O) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (O que fazer se crescer 5x?) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Aumentar a capacidade sem abrir m\343o da integridade.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (13 / 15) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 374 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 374 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 406 Tm (01) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 406 Tm (API) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 406 Tm (Escalar r\351plicas stateless por demanda) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 299 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 299 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 331 Tm (02) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 331 Tm (Cat\341logo) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 331 Tm (Cache de leitura e invalida\347\343o adequada) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 224 1018 66 re B Q
+q 0.1412 0.3294 0.4824 rg  1.3 w 66 224 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 256 Tm (03) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 256 Tm (Notifica\347\365es) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 256 Tm (Ampliar workers, acompanhar backlog) Tj ET Q
+q 0.8980 0.9490 0.9961 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 149 1018 66 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 149 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 181 Tm (04) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 181 Tm (Persist\352ncia) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 181 Tm (Dimensionar PG, conex\343o e \355ndices) Tj ET Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 66 74 1018 66 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 66 74 95 66 re f Q
+q 1.0000 1.0000 1.0000 rg BT /F2 15 Tf 1 0 0 1 83 106 Tm (05) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 18 Tf 1 0 0 1 177 106 Tm (Pagamentos) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 490 106 Tm (Respeitar limites do PSP e retry seguro) Tj ET Q
+q 1.0000 0.9412 0.8667 rg  1.3 w 65 53 1022 43 re f Q
+q 0.4000 0.4824 0.5686 rg BT /F2 15 Tf 1 0 0 1 83 69 Tm (Meta: teste 5x de leituras e 2x de checkout, n\343o escala garantida.) Tj ET Q
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 2275 >>
+stream
+q 0.9608 0.9725 0.9882 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 635 1152 13 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 65 592 Tm (PARTE 3 \267 REVIS\303O) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 35 Tf 1 0 0 1 65 539 Tm (Peer review profissional) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 65 503 Tm (Rubrica de 20 pontos e feedback com evid\352ncia.) Tj ET Q
+q 0.8667 0.9059 0.9412 RG 2 w 65 472 m 1088 472 l S Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 65 31 Tm (PROJETO FINAL DE ARQUITETURA  |  SEMANA 4  |  ENTREGAJ\301) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F2 11 Tf 1 0 0 1 1037 31 Tm (14 / 15) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 68 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 65 111 489 325 re B Q
+q 0.4353 0.3529 0.7765 rg  1.3 w 65 111 8 325 re f Q
+q 0.4353 0.3529 0.7765 rg BT /F2 13 Tf 1 0 0 1 88 407 Tm (RUBRICA) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 88 365 Tm (5 crit\351rios) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 324 Tm (RNFs e prioridades \(4\)) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 295 Tm (Componentes UML \(4\)) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 266 Tm (Implanta\347\343o UML \(4\)) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 237 Tm (Consist\352ncia e custos \(4\)) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 88 208 Tm (Defesa oral \(4\)) Tj ET Q
+q 0.9059 0.9333 0.9686 rg  1.3 w 594 107 489 325 re f Q
+q 1.0000 1.0000 1.0000 rg 0.8667 0.9059 0.9412 RG 1.3 w 591 111 489 325 re B Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 591 111 8 325 re f Q
+q 0.0863 0.5882 0.5490 rg BT /F2 13 Tf 1 0 0 1 614 407 Tm (FEEDBACK) Tj ET Q
+q 0.1059 0.2039 0.3020 rg BT /F2 24 Tf 1 0 0 1 614 365 Tm (Espec\355fico e \372til) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 324 Tm (Referenciar o diagrama,) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 295 Tm (explicar o impacto,) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 266 Tm (propor corre\347\343o) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 237 Tm (vi\341vel, sem inventar) Tj ET Q
+q 0.4000 0.4824 0.5686 rg BT /F1 17 Tf 1 0 0 1 614 208 Tm (notas de outros grupos.) Tj ET Q
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 853 >>
+stream
+q 0.0627 0.1412 0.2353 rg  1.3 w 0 0 1152 648 re f Q
+q 0.0863 0.5882 0.5490 rg  1.3 w 0 0 15 648 re f Q
+q 0.6235 0.8667 0.8196 rg BT /F2 17 Tf 1 0 0 1 69 553 Tm (REFLEX\303O FINAL) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 44 Tf 1 0 0 1 69 471 Tm (O diagrama mostra) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 44 Tf 1 0 0 1 69 402 Tm (as rela\347\365es.) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 44 Tf 1 0 0 1 69 333 Tm (A implanta\347\343o mostra) Tj ET Q
+q 1.0000 1.0000 1.0000 rg BT /F2 44 Tf 1 0 0 1 69 264 Tm (onde elas executam.) Tj ET Q
+q 0.7843 0.8510 0.9176 rg BT /F1 18 Tf 1 0 0 1 70 146 Tm (Peer review ensina a enxergar riscos que o pr\363prio grupo n\343o viu.) Tj ET Q
+q 0.2745 0.3922 0.4863 RG 2 w 69 106 m 1082 106 l S Q
+q 0.7137 0.8118 0.8784 rg BT /F2 14 Tf 1 0 0 1 70 66 Tm (ENTREGAJ\301  |  ARQUITETURA DOCUMENTADA  |  SEMANA 4) Tj ET Q
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 1152 648] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+35 0 obj
+<< /Title (Projeto Final Semana 4 - EntregaJa) /Author (Disciplina Arquitetura de Software) >>
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000368 00000 n 
+0000001767 00000 n 
+0000001904 00000 n 
+0000004682 00000 n 
+0000004819 00000 n 
+0000007999 00000 n 
+0000008136 00000 n 
+0000011264 00000 n 
+0000011403 00000 n 
+0000013728 00000 n 
+0000013867 00000 n 
+0000017526 00000 n 
+0000017665 00000 n 
+0000020535 00000 n 
+0000020674 00000 n 
+0000025058 00000 n 
+0000025197 00000 n 
+0000028290 00000 n 
+0000028429 00000 n 
+0000031269 00000 n 
+0000031408 00000 n 
+0000033754 00000 n 
+0000033893 00000 n 
+0000036764 00000 n 
+0000036903 00000 n 
+0000039754 00000 n 
+0000039893 00000 n 
+0000042221 00000 n 
+0000042360 00000 n 
+0000043265 00000 n 
+0000043404 00000 n 
+0000043454 00000 n 
+trailer
+<< /Size 36 /Root 34 0 R /Info 35 0 R >>
+startxref
+43565
+%%EOF
