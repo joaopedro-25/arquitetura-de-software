@@ -54,6 +54,8 @@ jobs:
     steps:
       - name: Preparar GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Baixar build aprovado
         uses: actions/download-artifact@v4
         with:

@@ -25,4 +25,4 @@ O workflow `.github/workflows/devpath-ci-cd.yml`, na raiz do repositório, execu
 
 ## Deploy
 
-Depois do primeiro workflow, habilite GitHub Pages em **Settings → Pages → Build and deployment → Source: GitHub Actions** se ainda não estiver configurado. O endereço publicado aparece no job `Deploy · GitHub Pages` e no ambiente `github-pages` da execução.
+O primeiro deploy habilita o GitHub Pages automaticamente. O endereço publicado aparece no job `Deploy · GitHub Pages` e no ambiente `github-pages` da execução.
