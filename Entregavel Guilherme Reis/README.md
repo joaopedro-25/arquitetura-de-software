@@ -21,7 +21,7 @@ Acesse http://localhost:8080.
 
 ## CI/CD
 
-O workflow `.github/workflows/ci-cd.yml` executa os testes com Node.js, gera o build e valida a imagem Docker em cada push ou pull request que altera esta pasta. Na branch `main`, depois que os testes passam, o artefato aprovado é publicado automaticamente no GitHub Pages.
+O workflow `.github/workflows/devpath-ci-cd.yml`, na raiz do repositório, executa os testes com Node.js, gera o build e valida a imagem Docker em cada push ou pull request que altera esta pasta. Na branch `main`, depois que os testes passam, o artefato aprovado é publicado automaticamente no GitHub Pages.
 
 ## Deploy
 
