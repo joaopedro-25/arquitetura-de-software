@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - "Entregavel Guilherme Reis/**"
+      - ".github/workflows/devpath-ci-cd.yml"
   pull_request:
     branches: [main]
     paths:
       - "Entregavel Guilherme Reis/**"
+      - ".github/workflows/devpath-ci-cd.yml"
   workflow_dispatch:
 
 permissions:
@@ -34,10 +36,9 @@ jobs:
         run: npm run build
       - name: Construir imagem Docker
         run: docker build -t devpath-guilherme-reis:ci .
-      - name: Salvar build para deploy
-        uses: actions/upload-artifact@v4
+      - name: Preparar artefato para GitHub Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: devpath-site
           path: Entregavel Guilherme Reis/dist
 
   deploy:
@@ -56,11 +57,6 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
-      - name: Baixar build aprovado
-        uses: actions/download-artifact@v4
-        with:
-          name: devpath-site
-          path: site
       - name: Publicar aplicação
         id: deployment
         uses: actions/deploy-pages@v4
